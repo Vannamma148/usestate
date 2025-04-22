@@ -26,8 +26,5 @@ This project demonstrates the use of React's `useState` hook with interactive UI
     npm install
 
 3. Start the app:
-  ```bash
-    npm start  
-
-
-
+     ```bash
+       npm start  
